@@ -2,11 +2,20 @@
 ### 💻 If you're reading this, I'm open to work 💻 
 - 🔭 I’m currently working on a portfolio website, stay tuned!
 - 🌱 I’m currently learning how to develop and host full-stack web apps using a MERN technology stack, and I'm planning to use this knowledge to develop a fully-fledged app that will interface with the Spotify API to generate playlists based on users' digital drawings.
+- 🤖 Technology I'm interested/experienced in:
+   -  Frameworks: React, Angular, Bootstrap, Django, jQuery, Node, Express, MongoDB
+   -  Languages and Libraries: Java, C++, JavaScript, HTML, CSS, Python, C, Matlab, SQL
+   -  Architectures: MVC, P2P
+   -  Database Software: MySQL, MongoDB
+   -  Tools: Figma, GitHub, GitLab, Heroku, VSCode, Trello, & vector-graphics software like Vectr and Illustrator
 - 📫 How to reach me: 
    -  email: macfifth@gmail.com
    -  LinkedIn: https://www.linkedin.com/in/boydduffiev/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: When I'm not coding I'm a part-time sushi chef 🔪 🍣 🍱
+- ⚡ Fun fact: When I'm not coding I'm a:
+   -  Part-time sushi chef 🔪 🍣 🍱 
+   -  Avid reader 📚 🤓
+   -  Frequent gym-junkie 💪 🏋️
 
 <!--
 **boydDuffie/boydDuffie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
