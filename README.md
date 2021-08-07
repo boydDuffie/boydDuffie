@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a portfolio website, stay tuned!
+- 🌱 I’m currently learning how to develop and host full-stack web apps using a MERN technology stack, and I'm planning to use this knowledge to develop a fully-fledged app that will interface with the Spotify API to generate playlists based on users' digital drawings.
+- 📫 How to reach me: 
+   -  email: macfifth@gmail.com
+   -  LinkedIn: https://www.linkedin.com/in/boydduffiev/
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: When I'm not coding I'm a part-time sushi chef 🔪 🍣 🍱
 
 <!--
 **boydDuffie/boydDuffie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
