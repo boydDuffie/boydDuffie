@@ -1,13 +1,13 @@
 ## Hey! How's it going? 👋 😄
 ### 💻 If you're reading this, I'm open to work 💻 
 - 🔭 I’m currently working on a portfolio website, stay tuned!
-- 🌱 I’m currently learning how to develop and host full-stack web apps using a MERN technology stack, and I'm planning to use this knowledge to develop a fully-fledged app that will interface with the Spotify API to generate playlists based on users' digital drawings.
+- 🌱 I’m currently learning how to develop and host **full-stack** web apps using a **MERN** technology stack, and I'm planning to use this knowledge to develop a fully-fledged app that will interface with the Spotify API to generate playlists based on users' digital drawings.
 - 🤖 Technology I'm interested/experienced in:
-   -  Frameworks: React, Angular, Bootstrap, Django, jQuery, Node, Express, MongoDB
-   -  Languages and Libraries: Java, C++, JavaScript, HTML, CSS, Python, C, Matlab, SQL
+   -  Frameworks: **React**, Angular, Bootstrap, Django, jQuery, **Node**, Express, **MongoDB**, **TailwindCSS**
+   -  Languages and Libraries: Java, C++, **JavaScript**, **HTML**, **CSS**, Python, C, Matlab, SQL
    -  Architectures: MVC, P2P
    -  Database Software: MySQL, MongoDB
-   -  Tools: Figma, GitHub, GitLab, Heroku, VSCode, Trello, & vector-graphics software like Vectr and Illustrator
+   -  Tools: Figma, GitHub, GitLab, Heroku, VSCode, Trello, & vector-graphics software like Vectr and Adobe Illustrator
 - 📫 How to reach me: 
    -  email: macfifth@gmail.com
    -  LinkedIn: https://www.linkedin.com/in/boydduffiev/
