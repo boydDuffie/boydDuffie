@@ -6,7 +6,7 @@
    -  Frameworks: **React**, Angular, Bootstrap, Django, jQuery, **Node**, Express, **MongoDB**, **TailwindCSS**
    -  Languages and Libraries: Java, C++, **JavaScript**, **HTML**, **CSS**, Python, C, Matlab, SQL
    -  Architectures: MVC, P2P
-   -  Database Software: MySQL, MongoDB
+   -  Database Software: MySQL, **MongoDB**
    -  Tools: Figma, GitHub, GitLab, Heroku, VSCode, Trello, & vector-graphics software like Vectr and Adobe Illustrator
 - 📫 How to reach me: 
    -  email: macfifth@gmail.com
