@@ -12,7 +12,7 @@
    -  LinkedIn: https://www.linkedin.com/in/boydduffiev/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: When I'm not coding I'm a:
-   -  Part-time sushi chef 🔪 🍣 🍱 
+   -  Digital artist 🎨
    -  Avid reader 📚 🤓
    -  Frequent gym-junkie 💪 🏋️
 
