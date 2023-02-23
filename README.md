@@ -1,6 +1,12 @@
-## Hey! How's it going? 👋 😄 
-- 🔭 I’m currently working on a portfolio website, stay tuned!
-- 🌱 I’m currently learning how to develop and host **full-stack** web apps using a **MERN** technology stack, and I'm planning to use this knowledge to develop a fully-fledged app that will interface with the Spotify API to generate playlists based on users' digital drawings.
+## Howdy ✌️🤠 
+🔭 I’m currently working on a web site/game hybrid thing—it's in an early stage:
+- I'll be using React (Vite) and Phaser
+- The "game" will feature many horror elements
+
+... that's all for now; stay tuned!
+
+
+<!-- - 🌱 I’m currently learning how to develop and host **full-stack** web apps using a **MERN** technology stack, and I'm planning to use this knowledge to develop a fully-fledged app that will interface with the Spotify API to generate playlists based on users' digital drawings.
 - 🤖 Technology I'm interested/experienced in:
    -  Frameworks: **React**, Angular, Bootstrap, Django, jQuery, **Node**, Express, **MongoDB**, **TailwindCSS**
    -  Languages and Libraries: Java, C++, **JavaScript**, **HTML**, **CSS**, Python, C, Matlab, SQL
@@ -10,7 +16,7 @@
 - 📫 How to reach me: 
    -  email: macfifth@gmail.com
    -  LinkedIn: https://www.linkedin.com/in/boydduffiev/
-- 😄 Pronouns: he/him
+- 🤟 Pronouns: he/him
 - ⚡ Fun fact: When I'm not coding I'm a:
    -  Digital artist 🎨
    -  Avid reader 📚 🤓
