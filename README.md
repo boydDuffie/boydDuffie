@@ -1,11 +1,11 @@
 ## Howdy ✌️🤠 
 
-- 🌱 At my day job, I’m a JavaScript (React) developer
+- :bowtie: Professional React Developer
    - Working on a Swift app on the side
 - 🤖 Technology I'm interested/experienced in:
    -  Frameworks: **React**, SwiftUI,
-   -  Languages: **JavaScript**, **HTML**, **(S)CSS**, **Go**, **SQL**, Python, C, Matlab, Java, C++
-   -  Architectures: MVC, P2P
+   -  Languages: **JavaScript**, **Swift**, **HTML**, **(S)CSS**, SQL, Go, Python, C, Matlab, Java, C++
+   -  Architectures: Redux, TCA, MVC
    -  Database Software: MySQL, MongoDB, **PostgreSQL**
    -  Tools: Figma, GitHub/GitLab, Jira, Heroku, VSCode, Procreate, Adobe Illustrator, AWS
 - 📫 How to reach me: 
@@ -14,7 +14,7 @@
 - 🤟 Pronouns: he/him
 - ⚡ Fun fact - when I'm not coding I'm a:
    -  Digital artist 🎨
-   -  Avid reader of fantasy 📚 🤓
+   -  Enjoyer of epic fantasy novels 📚 🤓
    -  Gym-junkie 💪 🏋️
 
 <!--
