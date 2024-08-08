@@ -4,7 +4,7 @@
 
 **Professionally, I'm a React Developer working in higher education.**
 
-I'm also working on a Swift app on the side!
+I'm also working on a Swift iOS app on the side!
 
 ## 🤖 Technology I'm interested/`experienced` in:
 
