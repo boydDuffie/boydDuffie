@@ -11,7 +11,7 @@ I'm also working on a Swift iOS app on the side!
 -  **Frameworks**: `React`, SwiftUI
 -  **Languages**: `JavaScript`, `Swift`, `HTML`, `(S)CSS`, SQL, Go, Python, C, Matlab, Java, C++
 -  **Architectures**: `Redux`, `TCA`, MVC
--  **Database Software**: `PostgreSQL`, MySQL, MongoDB 
+-  **Database Software**: PostgreSQL, MySQL, MongoDB 
 -  **Tools**: Figma, `GitHub/GitLab`, `Jira`, Vercel, Procreate, Adobe Illustrator, AWS
 
 ## Contact
