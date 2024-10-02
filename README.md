@@ -2,7 +2,7 @@
 
 ## 🧠 What I Do 
 
-**Professionally, I'm a React Developer working in higher education.**
+**Professionally, I'm a React Developer working in higher ed.**
 
 I'm also working on a Swift iOS app on the side!
 
