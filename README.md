@@ -4,12 +4,16 @@
 
 **Professionally, I'm a React Developer working in higher ed.**
 
-I'm also working on a Swift iOS app on the side!
+I'm also working on a Swift iOS app and a Next.js website on the side! Always open to talk new ideas, and I'm on the lookout for cool projects with committed people.
+
+## My Ethos
+
+I am obsessed with process. I love a well-oiled machine, and creative problem solving to find different ways of getting the job done. I care deeply about my teammates, and take pride in our collective quality of work. Let's build something together!
 
 ## 🤖 Technology I'm interested/`experienced` in:
 
--  **Frameworks**: `React`, SwiftUI
--  **Languages**: `JavaScript`, `Swift`, `HTML`, `(S)CSS`, SQL, Go, Python, C, Matlab, Java, C++
+-  **Frameworks**: `React`, Next.js, SwiftUI
+-  **Languages**: `JavaScript`, `TypeScript`, `Swift`, `HTML`, `(S)CSS`, SQL, Go, Python, C, Matlab, Java, C++
 -  **Architectures**: `Redux`, `TCA`, MVC
 -  **Database Software**: PostgreSQL, MySQL, MongoDB 
 -  **Tools**: Figma, `GitHub/GitLab`, `Jira`, Vercel, Procreate, Adobe Illustrator, AWS
@@ -24,12 +28,13 @@ I'm also working on a Swift iOS app on the side!
 
 ---
 
-#### ⚡ Fun fact:
+#### ⚡ More about me:
 
-When I'm not coding I'm a...
--  Digital artist 🎨
--  Enjoyer of epic fantasy novels 📚 🤓
--  Gym-junkie 💪 🏋️
+When I'm not coding I do:
+-  Digital art 🎨
+-  Skateboarding 🛹
+-  Reading high-fantasy 📚 🤓
+-  Weightlifting 💪 🏋️
 
 <!--
 **boydDuffie/boydDuffie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
