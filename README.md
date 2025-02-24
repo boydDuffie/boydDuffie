@@ -4,11 +4,13 @@
 
 **Professionally, I'm a React Developer working in higher ed.**
 
-I'm also working on a Swift iOS app and a Next.js website on the side! Always open to talk new ideas, and I'm on the lookout for cool projects with committed people.
+I'm also working on a Swift iOS app and a Next.js website on the side! 
+
+Always open to talk new ideas, and I'm on the lookout for cool projects with committed people. **Let's build something together!**
 
 ## My Ethos
 
-I am obsessed with process. I love a well-oiled machine, and creative problem solving to find different ways of getting the job done. I care deeply about my teammates, and take pride in our collective quality of work. Let's build something together!
+Creation is my passion, and I am obsessed with process. I love a well-oiled machine, and creative problem solving to find different ways of getting the job done. I care deeply about my teammates, and take pride in our collective quality of work. 
 
 ## 🤖 Technology I'm interested/`experienced` in:
 
@@ -23,8 +25,6 @@ I am obsessed with process. I love a well-oiled machine, and creative problem so
 📫 **How to reach me**:
 - **Email**: macfifth@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/boydduffiev/
-
-🤟 **Pronouns**: `he`/`him`
 
 ---
 
