@@ -23,8 +23,8 @@ Creation is my passion, and I am obsessed with process. I love a well-oiled mach
 ## Contact
 
 📫 **How to reach me**:
-- **Email**: macfifth@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/boydduffiev/
+- **[Email](mailto:macfifth@gmail.com)** 
+- **[LinkedIn](https://www.linkedin.com/in/boydduffiev/)** 
 
 ---
 
