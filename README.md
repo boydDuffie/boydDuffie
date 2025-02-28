@@ -16,7 +16,7 @@ Creation is my passion, and I am obsessed with process. I love a well-oiled mach
 
 -  **Frameworks**: `React`, Next.js, SwiftUI
 -  **Languages**: `JavaScript`, `TypeScript`, `Swift`, `HTML`, `(S)CSS`, SQL, Go, Python, C, Matlab, Java, C++
--  **Architectures**: `Redux`, `TCA`, MVC
+-  **Architectures**: `Redux`, `TCA`, SSR, MVC
 -  **Database Software**: PostgreSQL, MySQL, MongoDB 
 -  **Tools**: Figma, `GitHub/GitLab`, `Jira`, Vercel, Procreate, Adobe Illustrator, AWS
 
